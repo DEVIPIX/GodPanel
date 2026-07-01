@@ -1,9 +1,5 @@
 <p align="center">
-
-🇺🇸 <a href="README.md">English</a> •
 🇮🇷 <a href="README_FA.md">فارسی</a> •
-🇸🇦 <a href="README_AR.md">العربية</a>
-
 </p>
 
 <p align="center">
