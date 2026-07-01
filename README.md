@@ -1,3 +1,13 @@
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/DEVIPIX/GodPanel?style=for-the-badge&color=yellow" />
+<img src="https://img.shields.io/github/forks/DEVIPIX/GodPanel?style=for-the-badge&color=orange" />
+<img src="https://img.shields.io/github/watchers/DEVIPIX/GodPanel?style=for-the-badge&color=red" />
+<img src="https://img.shields.io/github/license/DEVIPIX/GodPanel?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/repo-size/DEVIPIX/GodPanel?style=for-the-badge&color=green" />
+<img src="https://img.shields.io/github/last-commit/DEVIPIX/GodPanel?style=for-the-badge&color=purple" />
+
+</p>
 
 ⚡ GodPanel
 
