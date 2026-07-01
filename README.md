@@ -6,6 +6,13 @@
 GodPanel is a lightweight script that transforms the look of your X-UI panel in seconds.
 Choose from carefully designed themes and give your panel a modern, premium appearance without touching the core source code.
 
+
+📸 Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DEVIPIX/GodPanel/main/assets/GodPanel.png" alt="GodPanel Preview" width="100%" />
+</p>
+
 ✨ Features
 
 - 🎨 7 Beautiful Color Themes
@@ -26,14 +33,6 @@ Choose from carefully designed themes and give your panel a modern, premium appe
 - 🌸 Pink
 - 🟣 Purple
 
-📸 Preview
-
-<img src="https://raw.githubusercontent.com/DEVIPIX/GodPanel/main/assets/GodPanel.png" width="100%">
-
-![Gold](assets/gold.png)
-
-![Green](assets/green.png)
-
 🚀 Installation
 
 Installation requires a valid license.
@@ -41,7 +40,6 @@ Installation requires a valid license.
 Purchase your license through our official Telegram account, and you'll instantly receive your activation key along with the installation command.
 
 📩 Telegram: @ِDevipix
-
 
 
 ⭐ Support
