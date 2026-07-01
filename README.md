@@ -1,5 +1,13 @@
 <p align="center">
 
+🇺🇸 <a href="README.md">English</a> •
+🇮🇷 <a href="README_FA.md">فارسی</a> •
+🇸🇦 <a href="README_AR.md">العربية</a>
+
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/github/stars/DEVIPIX/GodPanel?style=for-the-badge&color=yellow" />
 <img src="https://img.shields.io/github/forks/DEVIPIX/GodPanel?style=for-the-badge&color=orange" />
 <img src="https://img.shields.io/github/watchers/DEVIPIX/GodPanel?style=for-the-badge&color=red" />
