@@ -28,7 +28,7 @@ Choose from carefully designed themes and give your panel a modern, premium appe
 
 📸 Preview
 
-Screenshots are available below.
+> Screenshots are available below.
 
 🚀 Installation
 
