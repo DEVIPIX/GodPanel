@@ -25,6 +25,23 @@ Choose from carefully designed themes and give your panel a modern, premium appe
 - 🟢 Green
 - 🌸 Pink
 - 🟣 Purple
+- ## 📸 Preview
+
+| Dark | Blue |
+|------|------|
+| ![](assets/preview-dark.png) | ![](assets/preview-blue.png) |
+
+| Gold | Green |
+|------|------|
+| ![](assets/preview-gold.png) | ![](assets/preview-green.png) |
+
+| Red | Pink |
+|------|------|
+| ![](assets/preview-red.png) | ![](assets/preview-pink.png) |
+
+### Purple
+
+![](assets/preview-purple.png)
 
 🚀 Installation
 
