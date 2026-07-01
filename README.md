@@ -28,7 +28,7 @@ Choose from carefully designed themes and give your panel a modern, premium appe
 
 📸 Preview
 
-![Blue](assets/blue.png)
+<img src="https://raw.githubusercontent.com/DEVIPIX/GodPanel/main/assets/GodPanel.png" width="100%">
 
 ![Gold](assets/gold.png)
 
