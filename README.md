@@ -32,4 +32,10 @@ Installation requires a valid license.
 
 Purchase your license through our official Telegram account, and you'll instantly receive your activation key along with the installation command.
 
-📩 Telegram:** @ِDevipix
+📩 Telegram: @ِDevipix
+
+
+
+⭐ Support
+
+If you like this project, don't forget to leave a ⭐ on GitHub.
