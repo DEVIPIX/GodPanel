@@ -28,7 +28,49 @@ Choose from carefully designed themes and give your panel a modern, premium appe
 
 📸 Preview
 
-> Screenshots are available below.
+## 📸 Preview
+
+### 🔵 Dark Blue
+
+<p align="center">
+  <img src="assets/dark-blue.png" width="900">
+</p>
+
+### 🟡 Gold
+
+<p align="center">
+  <img src="assets/gold.png" width="900">
+</p>
+
+### ⚪ White
+
+<p align="center">
+  <img src="assets/white.png" width="900">
+</p>
+
+### 🔴 Red
+
+<p align="center">
+  <img src="assets/red.png" width="900">
+</p>
+
+### 🟢 Green
+
+<p align="center">
+  <img src="assets/green.png" width="900">
+</p>
+
+### 🌸 Pink
+
+<p align="center">
+  <img src="assets/pink.png" width="900">
+</p>
+
+### 🟣 Purple
+
+<p align="center">
+  <img src="assets/purple.png" width="900">
+</p>
 
 🚀 Installation
 
